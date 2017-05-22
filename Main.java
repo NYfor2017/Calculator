@@ -1,4 +1,4 @@
-import imooc.CalculatorFrame.MyFunction;
+import MyFunction;
 
 /**
  * Created by N.Y on 2017-05-06.
