@@ -1,4 +1,4 @@
-import imooc.CalculatorOperator.operator;
+import Operator;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
